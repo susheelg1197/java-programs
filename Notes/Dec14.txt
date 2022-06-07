@@ -1,0 +1,4 @@
+Java overview
+---------------------------------------------------------------
+The motivation behind java was to write once and read everywhere that is
+make it platform independant.
