@@ -7,7 +7,7 @@ Correctness
 
 Efficiency
  - use library functions as much as possible
- -  write freaking jUnit @Test-ing
+ - write freaking jUnit @Test-ing
  - assertEquals("RESULT", functionToCall())
 
 Debuggability 
